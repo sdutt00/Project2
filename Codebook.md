@@ -9,7 +9,7 @@ Source Dataset:
 Human Activity Recognition Using Smartphones Dataset. Version 1.0
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
@@ -18,7 +18,7 @@ The dataset contains various measurements from 30 subjects where each subject pe
 
 The source dataset consisted of separate files that contained the activity labels, feature labels and the measurements of 561 variables. Furthermore the dataset was divided into a training and test dataset. 
 
-Project Description:
+Project Description: 
 ====================
 Please refer to the README file for more details about the analysis script for this project. In summary the analysis script gathered the raw data from various sources under training and test and combined to form a merged database of all activities and subject observations. Then a tidy dataset was created with only the mean and std of each measurement extracted from the 561 total variables. In the tidy dataset, the average values of each of the selected variables was summarized grouped by both the activity and the subject.
 
